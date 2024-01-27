@@ -44,7 +44,7 @@ header {
 
 .navlist {
   display: flex;
-  padding-left: 11%;
+  padding-left: 8%;
 }
 .navlist a {
   color: var(--second-color);
